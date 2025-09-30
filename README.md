@@ -1,6 +1,14 @@
 ### Gabriel Massola
 
-Olá! Sou estudante de Sistemas de Informação e entusiasta do universo Back-end. Minha paixão é transformar ideias em aplicações robustas e eficientes, utilizando principalmente Java, seus principais frameworks como o Spring, e o MySQL para gerenciamento de dados.
+Olá! 👋 Sou Desenvolvedor Back-end.
+
+Minha paixão é transformar ideias em aplicações funcionais através de APIs RESTful robustas e escaláveis. Meu foco principal está no ecossistema Java, utilizando Spring Boot para criar a lógica de negócio e MySQL para garantir a integridade dos dados.
+
+🔭 Atualmente focado em dominar o Spring Boot e seu ecossistema.
+
+🚀 Estudando programação de banco de dados e a construção de APIs REST de alta performance.
+
+
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
