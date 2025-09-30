@@ -4,7 +4,7 @@ Olá! Sou Desenvolvedor Back-end.
 
 Minha especialidade é transformar ideias em aplicações funcionais através de APIs RESTful robustas e escaláveis. Meu foco principal está no ecossistema Java, utilizando Spring Boot para criar a lógica de negócio e MySQL para garantir a integridade e a performance dos dados.
 
-Foco técnico: Aprimoramento contínuo no ecossistema Spring, com ênfase na construção de APIs REST de alta performance e otimização de bancos de dados relacionais
+Aprimorando contínuamente no ecossistema Spring, com ênfase na construção de APIs REST de alta performance e otimização de bancos de dados relacionais
 
 
 
