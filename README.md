@@ -1,6 +1,6 @@
 ### Gabriel Massola
 
-Olá! Sou Desenvolvedor Back-end. Minha especialidade é transformar ideias em aplicações funcionais através de APIs RESTful robustas e escaláveis. Meu foco principal está no ecossistema Java, utilizando Spring Boot para criar a lógica de negócio e MySQL para garantir a integridade e a performance dos dados. Aprimorando contínuamente no ecossistema Spring, com ênfase na construção de APIs REST de alta performance e otimização de bancos de dados relacionais.
+Olá! Sou Desenvolvedor Full Stack. Minha especialidade é transformar ideias em aplicações completas e funcionais através da integração de interfaces dinâmicas com APIs RESTful robustas e escaláveis. Meu foco principal está na utilização de TypeScript e Node.js, atuando em conjunto com meu domínio do ecossistema Java (Spring Boot) para a lógica de negócio, e MySQL para garantir a integridade e a performance dos dados. Aprimorando continuamente em soluções de ponta a ponta com Angular, React e React Native, com ênfase na construção de sistemas web e mobile de alta performance.
 
 
 
